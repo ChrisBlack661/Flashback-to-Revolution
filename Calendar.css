@@ -1,0 +1,41 @@
+#currentDate{
+font-size: 1.5em;
+background-color: black;
+color: white;
+height: auto;
+text-align: center;
+padding-top: auto;
+border-radius: 10px;
+border-style: solid;
+border-width: 5px;  
+}
+
+#textBasedOnDate{
+
+font-size: 1.5em;
+font-weight: bold;
+color: black; 
+margin-top:5px;
+}
+
+#today {
+
+background-color: #550506;
+margin-top: 0px;
+font-size: 1.3em;
+color: white;
+text-align: center;
+font-weight: normal;
+height: 33px;
+padding-top: 7px;
+border-radius: 10px;
+border-style: solid;
+border-width: 5px;
+}
+
+#calendarcontainer{
+width:30%;
+margin: auto;
+margin-top:5px;
+cursor: default;
+}
